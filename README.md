@@ -13,4 +13,10 @@ Link: https://www.youtube.com/watch?v=bmNDw5GUHP8&t=1037s
 Related tutorial:iOS Tutorial CoreData in Swift 3 with Xcode 8 Part 2: Delete, Filtered Fetch & Filtered Delete 
 Link: https://www.youtube.com/watch?v=L_l8KU0HENE
 
-For more tutorials or interesting iOS topics, please feel free to vist http://iosetutorials.com
+Also follow my social account:
+Facebook: https://www.facebook.com/iosetutorial/?ref=bookmarks
+Twitter: https://twitter.com/sheldonwaaaaang
+Github: https://github.com/SheldonWangRJT
+
+For more info, visit my blog website:
+http://iosetutorials.com
